@@ -1,6 +1,7 @@
 import './App.css';
 import React from 'react' ;
 import { Route ,Switch } from 'react-router';
+
 import HomePage from './pages/homepage/homepage.component' ;
 import ShopPage from './pages/shop/shop.component.jsx';
 import './pages/homepage/homepage.styles.scss';
